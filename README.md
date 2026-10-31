@@ -1,8 +1,7 @@
 # python-penjualan-buah
-Program Python sederhana untuk menampilkan daftar buah, mengecek harga, menghitung pembelian, dan menerapkan diskon.
-# Program Penjualan Buah
 
-Program sederhana menggunakan Python untuk menampilkan daftar buah, melihat harga, melakukan pembelian, dan menghitung diskon.
+# Toko Buah dengan Python
+Program sederhana untuk menampilkan daftar buah, melihat harga, melakukan pembelian, dan menghitung diskon.
 
 ## Preview Program
 
@@ -16,23 +15,23 @@ Program memiliki beberapa proses:
 
 ## Data Buah
 
- Nama Buah | Harga 
-
- Mangga | Rp7.500 
- Apel | Rp10.000 
- Jeruk | Rp8.000 
- Melon | Rp21.000 
- Alpukat | Rp11.500 
- Nanas | Rp17.000 
+| Nama Buah | Harga |
+|---|---:|
+| Mangga | Rp7.500 |
+| Apel | Rp10.000 |
+| Jeruk | Rp8.000 |
+| Melon | Rp21.000 |
+| Alpukat | Rp11.500 |
+| Nanas | Rp17.000 |
 
 ## Diskon
 
- Total Belanja | Diskon 
-
- > Rp150.000 | 10% 
- > Rp100.000 | 5% 
- > Rp75.000 | 3% 
- ≤ Rp75.000 | 0% 
+| Total Belanja | Diskon |
+|---|---:|
+| > Rp150.000 | 10% |
+| > Rp100.000 | 5% |
+| > Rp75.000 | 3% |
+| ≤ Rp75.000 | 0% |
 
 ## Python Concepts
 
@@ -54,4 +53,4 @@ Program memiliki beberapa proses:
 
 ```bash
 python main.py
-```an proses belajar Python.
+```
